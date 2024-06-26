@@ -10,9 +10,8 @@
 [![Visitors Count](https://visitcount.itsvg.in/api?id=ShivamXD6&label=Visitors&color=0&icon=5&pretty=false)]()
 
 # 📊 GitHub Stats:
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shivamxd6)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamXD6&show_icons=true&theme=transparent&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamXD6&show_icons=true&theme=transparent)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShivamXD6&theme=transparent&border_radius=5.0)
 ![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamXD6&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamXD6&theme=github-dark-dimmed&custom_title=Shivam's%20Activity%20Graph&hide_border=true)]()
