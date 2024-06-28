@@ -1,8 +1,8 @@
-# <p align="center"><a href="https://youtube.com/flaxcubegaming"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%" alt="👋"></a> Hello, World I'm ```</Shivam>```
+# <p align="center"><a href="https://youtube.com/flaxcubegaming"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="👋"></a> ![Typing Profile](https://readme-typing-svg.demolab.com?font=Arial&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=500&height=30&lines=Hello+World%2C+I'm+%3C%2FShivam%3E;Passionate+about+software+development;Learning+Something+new+Everyday;Interested+in+Cyber+Security)
 - 🖥 **Intro:** An another Technology Enthusiast. Currently pursuing Bachelor of Computer Application (BCA) Degree.
 - 🖥️ **OS Experience:** Tried many custom ROMs on Android devices, Rooting Android, Tweaking Kernels, Linux, and Windows.
 - 🛠️ **Magisk Modules:** Developed Some Magisk modules and eager to create more modules to enhance Android Rooting Experience.
-- 🎨 **Web Development:** Experienced in crafting dynamic websites with HTML, CSS, and JavaScript, will learn more in future.
+- 🎨 **Web Development:** Experienced in crafting websites with HTML, CSS, and JavaScript, will learn more in future.
 - 🤖 **Bots:** Capable of developing Discord and Telegram bots for different usage.
 - 🔬 **AI Interest:** Exploring AI applications, including training models from Shapes and experimenting with AI prompting.
 
@@ -16,7 +16,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/gw3cRp6xBw)
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/shastikxd)
 
-
 ## 💻 Tech Stack
 <code>![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</code>
 <code>![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</code>
@@ -29,10 +28,22 @@
 <code>![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)</code>
 <code>![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
 
-## ✍️ Random Dev Quote
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+<details>
+<summary><h2>✍️ Random Dev Quote</h2></summary>
+  
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia)
+</details>
 
-## 🕵️‍♂️ GitHub Analysis
+<details>
+  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+  
+  <!-- BEGIN YOUTUBE-CARDS -->
+  <!-- END YOUTUBE-CARDS -->
+</details>
+
+<details>
+<summary><h2>🕵️‍♂️ GitHub Analysis</h2></summary>
+
 ### 🏆 Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shivamxd6&no-bg=true)
 ### 📈 Stats
@@ -44,4 +55,4 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamXD6&area=true&theme=github-dark-dimmed&custom_title=Shivam's%20Activity%20Graph)
 ### 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=ShivamXD6&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+</details>
