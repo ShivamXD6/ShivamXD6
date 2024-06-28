@@ -6,6 +6,8 @@
 - 🤖 **Bots:** Capable of developing Discord and Telegram bots for different usage.
 - 🔬 **AI Interest:** Exploring AI applications, including training models from Shapes and experimenting with AI prompting.
 
+<a href="https://discord.com/users/1213477076976275526/"><img src="https://discord.c99.nl/widget/theme-2/1213477076976275526.png"></a>
+
 ![Visitors Count](https://visitcount.itsvg.in/api?id=ShivamXD6&label=Visitors&color=1&icon=5&pretty=false)
 
 ## 🌐 Connect with Me
