@@ -1,7 +1,7 @@
 # <p align="center"><a href="https://youtube.com/flaxcubegaming"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="👋"></a> ![Typing Profile](https://readme-typing-svg.demolab.com?duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=500&height=30&lines=Hello+World%2C+I'm+%3C%2FShivam%3E;Passionate+about+software+development;Learning+Something+new+Everyday;Interested+in+Cyber+Security)
-- 🖥 **Intro:** An another Technology Enthusiast. Currently pursuing Bachelor of Computer Application (BCA) Degree.
-- 🖥️ **OS Experience:** Tried many custom ROMs on Android devices, Rooting Android, Tweaking Kernels, Linux, and Windows.
-- 🛠️ **Magisk Modules:** Developed Some Magisk modules and eager to create more modules to enhance Android Rooting Experience.
+- 🖥 **Intro:** A Technology Enthusiast, Currently pursuing Bachelor of Computer Application (BCA).
+- 🖥️ **OS Experience:** Tried many custom roms, rooting, kernel tweaking on Android Devices. Also have a good experience with Linux and Windows.
+- 🛠️ **Magisk Modules:** Developed Magisk modules and eager to create more modules to enhance Android Rooting Experience.
 - 🎨 **Web Development:** Experienced in crafting websites with HTML, CSS, and JavaScript, will learn more in future.
 - 🤖 **Bots:** Capable of developing Discord and Telegram bots for different usage.
 - 🔬 **AI Interest:** Exploring AI applications, including training models from Shapes and experimenting with AI prompting.
