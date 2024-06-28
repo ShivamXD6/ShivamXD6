@@ -6,7 +6,6 @@
 - 🤖 **Bots:** Capable of developing Discord and Telegram bots for different usage.
 - 🔬 **AI Interest:** Exploring AI applications, including training models from Shapes and experimenting with AI prompting.
 
-![Random Developer Meme](https://meme-api.com/gimme/dankmemes)
 ![Visitors Count](https://visitcount.itsvg.in/api?id=ShivamXD6&label=Visitors&color=1&icon=5&pretty=false)
 
 ## 🌐 Connect with Me
