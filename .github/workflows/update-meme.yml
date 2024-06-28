@@ -3,7 +3,8 @@ name: Update Random Developer Meme in README
 on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour, adjust as needed
-
+  workflow_dispatch:
+  
 jobs:
   update-readme:
     runs-on: ubuntu-latest
