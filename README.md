@@ -31,15 +31,6 @@
 <code>![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)</code>
 <code>![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
 
-<details>
-<summary><h2>✍️ Random Dev Quote</h2></summary>
-  
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia)
-</details>
-
-<details>
-<summary><h2>🕵️‍♂️ GitHub Analysis</h2></summary>
-
 ### 🏆 Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shivamxd6&no-bg=true)
 ### 📈 Stats
@@ -51,8 +42,12 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamXD6&area=true&theme=github-dark-dimmed&custom_title=Shivam's%20Activity%20Graph)
 ### 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=ShivamXD6&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</details>
 
+<details>
+<summary><h2>✍️ Random Dev Quote</h2></summary>
+  
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia)
+</details>
 
 <details>
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
