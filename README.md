@@ -24,11 +24,8 @@
 ---
 
 ## 🌐 Connect with Me
-<code>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shivam_xd6)</code>
 <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shivamxd6/)</code>
-<code>[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/gw3cRp6xBw)</code>
 <code>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam.dhage.work@gmail.com)</code>
-<code>[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/shastikxd)</code>
 
 ---
 
@@ -77,14 +74,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ShivamXD6&theme=tokyonight&hide_border=true" height="180em" />
 </p>
-
----
-
-<h2>💡Dev Quote of the Day</h2>
-  
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
 ---
 
