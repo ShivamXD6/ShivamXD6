@@ -1,7 +1,5 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="👋">
-  Hello there, I'm <code>&lt;/ Shivam Dhage &gt;</code>
-</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="👋"> Hello there, I'm
+# ```</ Shivam Dhage >```
 
 ---
 
