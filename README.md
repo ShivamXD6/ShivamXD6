@@ -1,63 +1,90 @@
-# <p align="center"><a href="https://youtube.com/flaxcubegaming"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="👋"></a> ![Typing Profile](https://readme-typing-svg.demolab.com?duration=3000&pause=1000&color=808080&vCenter=true&random=false&width=500&height=30&lines=Hello+World%2C+I'm+%3C%2FShivam%3E;Passionate+about+software+development;Learning+Something+new+Everyday;Interested+in+Cyber+Security)
-- 🖥 **Intro:** A Technology Enthusiast, Currently pursuing Bachelor of Computer Application (BCA).
-- 🖥️ **OS Experience:** Tried many custom roms, rooting, kernel tweaking on Android Devices. Also have a good experience with Linux and Windows.
-- 🛠️ **Magisk Modules:** Developed Magisk modules and eager to create more modules to enhance Android Rooting Experience.
-- 🎨 **Web Development:** Experienced in crafting websites with HTML, CSS, and JavaScript, will learn more in future.
-- 🤖 **Bots:** Capable of developing Discord and Telegram bots for different usage.
-- 🔬 **AI Interest:** Exploring AI applications, including training models from Shapes and experimenting with AI prompting.
+---
 
-<a href="https://discord.com/users/1213477076976275526/"><img src="https://discord.c99.nl/widget/theme-2/1213477076976275526.png"></a>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="👋">
+  Hello there, I'm <code>&lt;/ Shivam Dhage &gt;</code>
+</h1>
 
-![Visitors Count](https://visitcount.itsvg.in/api?id=ShivamXD6&label=Visitors&color=1&icon=5&pretty=false)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&duration=3000&pause=750&color=FFFFFF&center=true&width=1000&lines=%F0%9F%92%BB+Backend+%26+Systems+Engineering;%E2%9A%99%EF%B8%8F+Building+Software+That+Solves+Problems;%F0%9F%9A%80+Open+Source+Developer;%F0%9F%93%A6+Shipping+Projects%2C+Not+Just+Ideas;%F0%9F%90%A7+Windows+%E2%80%A2+Linux+%E2%80%A2+Android;%F0%9F%93%88+360%2B+GitHub+Stars+%E2%80%A2+6.3K%2B+Users" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 What I Do
+- 🚀 Building practical software, automation tools, and open-source projects.
+- 💻 Built projects used by **6.3K+** users and earned **360+** GitHub stars.
+- ⚙️ Experienced with Windows, Linux, Android, Rooting, scripting, and system tweaks.
+- 🌐 Developed web applications, automation tools, and community-driven projects.
+- 🤝 Community manager with experience supporting 2,100+ technical users.
+- 📚 Currently exploring Java, Spring Boot, system design, and scalable backend architectures.
+
+---
 
 ## 🌐 Connect with Me
 <code>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shivam_xd6)</code>
-<code>[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shivamxd6)</code>
 <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shivamxd6/)</code>
-<code>[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/FlaxCubeGaming)</code>
 <code>[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/gw3cRp6xBw)</code>
+<code>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam.dhage.work@gmail.com)</code>
 <code>[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/shastikxd)</code>
 
+---
 
 ## 💻 Tech Stack
-<code>![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</code>
-<code>![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</code>
-<code>![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</code>
-<code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</code>
-<code>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</code>
-<code>![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)</code>
-<code>![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)</code>
-<code>![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)</code>
-<code>![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)</code>
-<code>![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
 
-### 🏆 Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shivamxd6&no-bg=true)
-### 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamXD6&show_icons=true&theme=transparent)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShivamXD6&theme=transparent&border_radius=5.0)
-### 🌟 Most Used Languages
-![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamXD6&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### 📊 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamXD6&area=true&theme=github-dark-dimmed&custom_title=Shivam's%20Activity%20Graph)
-### 🔝 Top Contributed Repository
-![](https://github-contributor-stats.vercel.app/api?username=ShivamXD6&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📝 Languages
 
-<details>
-<summary><h2>✍️ Random Dev Quote</h2></summary>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge\&logo=webrtc\&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
+
+### 🛠️ Technologies & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+
+### ⚙️ Others
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamXD6&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em" />
   
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia)
-</details>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamXD6&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em" />
+</p>
 
-<details>
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShivamXD6&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+---
+
+<h2>💡Dev Quote of the Day</h2>
   
-  <!-- BEGIN YOUTUBE-CARDS -->
-[![How to edit/change home pop-up of Dynamons mods](https://ytcards.demolab.com/?id=2-k04nyvIDI&title=How+to+edit%2Fchange+home+pop-up+of+Dynamons+mods&lang=en&timestamp=1638538327&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to edit/change home pop-up of Dynamons mods")](https://www.youtube.com/watch?v=2-k04nyvIDI)
-[![All Legendary Pokemons Fan Mod](https://ytcards.demolab.com/?id=oe0XOU7NhKs&title=All+Legendary+Pokemons+Fan+Mod&lang=en&timestamp=1638427461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "All Legendary Pokemons Fan Mod")](https://www.youtube.com/watch?v=oe0XOU7NhKs)
-[![How to make starter house in Minecraft. Minecraft:Starter House For Begginers.](https://ytcards.demolab.com/?id=-dxX1N_7bFI&title=How+to+make+starter+house+in+Minecraft.+Minecraft%3AStarter+House+For+Begginers.&lang=en&timestamp=1636379656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to make starter house in Minecraft. Minecraft:Starter House For Begginers.")](https://www.youtube.com/watch?v=-dxX1N_7bFI)
-[![Pokemon Ash Fantasy Diwali🪔 Edition Mod.](https://ytcards.demolab.com/?id=mc7wuWIRB3I&title=Pokemon+Ash+Fantasy+Diwali%F0%9F%AA%94+Edition+Mod.&lang=en&timestamp=1636282143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pokemon Ash Fantasy Diwali🪔 Edition Mod.")](https://www.youtube.com/watch?v=mc7wuWIRB3I)
-[![Pokemon Ash Fantasy Beta 1.6.2 By FC](https://ytcards.demolab.com/?id=UtxQmrMsX28&title=Pokemon+Ash+Fantasy+Beta+1.6.2+By+FC&lang=en&timestamp=1607339947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pokemon Ash Fantasy Beta 1.6.2 By FC")](https://www.youtube.com/watch?v=UtxQmrMsX28)
-[![Pokemon Ash Beta 1.6.0 Mod By FC](https://ytcards.demolab.com/?id=16UE-saU-5s&title=Pokemon+Ash+Beta+1.6.0+Mod+By+FC&lang=en&timestamp=1602424195&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pokemon Ash Beta 1.6.0 Mod By FC")](https://www.youtube.com/watch?v=16UE-saU-5s)
-<!-- END YOUTUBE-CARDS -->
-</details>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
