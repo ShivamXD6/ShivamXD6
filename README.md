@@ -5,11 +5,7 @@
   Hello there, I'm <code>&lt;/ Shivam Dhage &gt;</code>
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=25&duration=3000&pause=750&color=FFFFFF&center=true&width=1000&lines=%F0%9F%92%BB+Backend+%26+Systems+Engineering;%E2%9A%99%EF%B8%8F+Building+Software+That+Solves+Problems;%F0%9F%9A%80+Open+Source+Developer;%F0%9F%93%A6+Shipping+Projects%2C+Not+Just+Ideas;%F0%9F%90%A7+Windows+%E2%80%A2+Linux+%E2%80%A2+Android;%F0%9F%93%88+360%2B+GitHub+Stars+%E2%80%A2+6.3K%2B+Users" alt="Typing SVG" />
-  </a>
-</p>
+# <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=25&duration=3000&pause=750&color=FFFFFF&center=true&width=1000&lines=%F0%9F%92%BB+Backend+%26+Systems+Engineering;%E2%9A%99%EF%B8%8F+Building+Software+That+Solves+Problems;%F0%9F%9A%80+Open+Source+Developer;%F0%9F%93%A6+Shipping+Projects%2C+Not+Just+Ideas;%F0%9F%90%A7+Windows+%E2%80%A2+Linux+%E2%80%A2+Android;%F0%9F%93%88+360%2B+GitHub+Stars+%E2%80%A2+6.3K%2B+Users" alt="Typing SVG" />
 
 ---
 
